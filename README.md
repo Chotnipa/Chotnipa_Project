@@ -1,7 +1,7 @@
 # Chotnipa_Ruttnaraweekool
 ⭐️ All my data project 
-- 1.Com
-- หา Symbol ที่
+<br />1.Com
+<br />หา Symbol ที่
 - 1.%Change_C2C> 0.01
 - 2.%CMPR> 100
 - 3.Volume> 10000000
