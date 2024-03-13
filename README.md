@@ -1,6 +1,35 @@
 # Chotnipa_Ruttnaraweekool
 ### ⭐️ All my data project 
 
+### 📈 Project Webscreping_province_vis
+
+
+Perform web scraping to gather tourism data from the website https://interstat.tat.or.th/mdgrp/ormap_new/report_thai_general.php. This data reflects the tourism situation in each province from the year 2557 to the present. Collect average accommodation rates per province for each month utilizing the `Selenium` library and `BeautifulSoup` library.
+
+<p align="center">
+    <img width="700" alt="Screenshot 2567-03-12 at 16 17 28" src="https://github.com/Chotnipa/Chotnipa_Project/assets/132806660/bbe428f4-3747-4d05-8610-5e37c7c2b24e">
+</p>
+
+**Example of the data obtained from web scraping :**
+| Province       | Month    | Year | Average Occupancy Rate |
+|----------------|----------|------|------------------------|
+| Bangkok        | January  | 2562 | 89.32%                 |
+| Krabi          | January  | 2562 | 82.91%                 |
+| Kanchanaburi   | January  | 2562 | 56.24%                 |
+| Kalasin        | January  | 2562 | 51.27%                 |
+| ...            | ...      | ...  | ...                    |
+
+
+I have imported the data obtained from web scraping into Looker Studio and created visualizations to analyze the tourism situation in various provinces over time. Please review the dashboard using the provided link to understand the data regarding average occupancy rates and trends.
+
+Please check the dashboard provided to see more information about the tourism situation in each province via the provided link: [Looker Studio Dashboard](https://lookerstudio.google.com/reporting/9786f108-5561-49a8-9b2e-5dc718ea6355/page/p_cs17bazucd)
+
+
+<p align="center">
+  <img width="403" alt="Screenshot 2567-03-12 at 17 57 44" src="https://github.com/Chotnipa/Chotnipa_Project/assets/132806660/16a65fc4-e969-4616-b9e3-1b1830ef24e9">
+</p>
+
+
 ### 📈 Project Compairs_Avg5
 **Fetching Stock Prices using SQL and Python from Yahoo Finance:**
 
@@ -77,24 +106,3 @@ Additionally, a graph is plotted to provide an overview.
 
 <br />
 
-### 📈 Project Webscreping_province_vis
-
-
-Perform web scraping to gather tourism data from the website https://interstat.tat.or.th/mdgrp/ormap_new/report_thai_general.php. This data reflects the tourism situation in each province from the year 2557 to the present. Collect average accommodation rates per province for each month utilizing the `Selenium` library and `BeautifulSoup` library.
-
-<p align="center">
-    <img width="700" alt="Screenshot 2567-03-12 at 16 17 28" src="https://github.com/Chotnipa/Chotnipa_Project/assets/132806660/bbe428f4-3747-4d05-8610-5e37c7c2b24e">
-</p>
-
-**Example of the data obtained from web scraping :**
-| Province       | Month    | Year | Average Occupancy Rate |
-|----------------|----------|------|------------------------|
-| Bangkok        | January  | 2562 | 89.32%                 |
-| Krabi          | January  | 2562 | 82.91%                 |
-| Kanchanaburi   | January  | 2562 | 56.24%                 |
-| Kalasin        | January  | 2562 | 51.27%                 |
-| ...            | ...      | ...  | ...                    |
-
-
-https://lookerstudio.google.com/reporting/9786f108-5561-49a8-9b2e-5dc718ea6355
-<img width="403" alt="Screenshot 2567-03-12 at 17 57 44" src="https://github.com/Chotnipa/Chotnipa_Project/assets/132806660/16a65fc4-e969-4616-b9e3-1b1830ef24e9">
