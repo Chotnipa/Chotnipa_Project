@@ -22,7 +22,8 @@ Perform web scraping to gather tourism data from the website https://interstat.t
 
 I have imported the data obtained from web scraping into Looker Studio and created visualizations to analyze the tourism situation in various provinces over time. Please review the dashboard using the provided link to understand the data regarding average occupancy rates and trends.
 
-Please check the dashboard provided to see more information about the tourism situation in each province via the provided link: [Looker Studio Dashboard](https://lookerstudio.google.com/reporting/9786f108-5561-49a8-9b2e-5dc718ea6355/page/p_cs17bazucd)
+Please check the dashboard provided to see more information about the tourism situation in each province via the provided link: [Looker Studio Dashboard](https://lookerstudio.google.com/reporting/9786f108-5561-49a8-9b2e-5dc718ea6355)
+
 
 
 <p align="center">
